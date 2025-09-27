@@ -1,0 +1,2 @@
+iso_time,unix_ts,camera_index,status,fall_score,alert_thresh,frame_w,frame_h,bbox_x1,bbox_y1,bbox_x2,bbox_y2,snapshot_path
+2025-09-27T14:18:26,1758957506.808,0,ALERT: FALL,0.9019,0.80,640,480,0.0,331.0,619.0,480.0,fall_snaps\fall_20250927_141826_806403.jpg
