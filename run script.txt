@@ -1,0 +1,2 @@
+python live_fall_demo.py --camera 0 --alert 0.8 --cooldown 8 --log_csv fall_events.csv --snap_dir fall_snaps
+

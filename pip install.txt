@@ -1,0 +1,1 @@
+pip install ultralytics==8.3.50 opencv-python torch torchvision torchaudio numpy pandas scikit-learn tqdm
